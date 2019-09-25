@@ -22,3 +22,5 @@ LZencodes runs using "java LZencode < "file to encode" > "file to output pairs"
 LZpack runs using "java LZpack < "file to pack" > "file to output packed file"
 LZunpack runs using "java LZunpack < "file to unpack" > "file to output unpacked file"
 LZdecode runs using "java LZdecode < "file to decode" > "file to output decoded file"
+
+Works on small text files. Non text files do not work. Large text files take a long time to complete
